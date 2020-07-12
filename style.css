@@ -1,0 +1,40 @@
+body{
+    
+    text-align: center;
+    background-color: black;
+    color: black;
+
+}
+h2{
+    color: #39ca74;
+}
+span{
+    color:white;
+}
+label{
+    color: white;
+}
+.box{
+    margin:200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid White;
+    padding: 20px;
+    background-color:#282828;
+
+}
+.button{
+    border: 2px solid black;
+    background: none;
+    padding: 10px 20px;
+    font-size:15px;
+    cursor: pointer;
+    margin: 10px;
+    color: white;
+    transition: 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+.button:hover{
+    color: #39ca74;
+}
